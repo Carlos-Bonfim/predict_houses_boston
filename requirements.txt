@@ -14,4 +14,4 @@ sklearn==0.0
 threadpoolctl==2.0.0
 Werkzeug==1.0.1
 gunicorn==19.9.0
-streamlit==0.49.0
+streamlit==0.59.0
