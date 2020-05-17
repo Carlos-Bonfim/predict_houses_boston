@@ -12,7 +12,7 @@ Segue o passo a passo do Projeto:
 - Tunning do melhor modelo, neste caso o Random Forest;
 - Treinamento com todos os dados do conjunto;
 - Criação de uma aplicação Web com Streamlit, framework para widgets dinâmicos em linguagem Python.
-<p>A semana foi até este ponto.<\p>
+<p>A semana foi até este ponto.<p>
 
 Com a aplicação pronta, fiz a publicação no site Heroku: https://boston-house-prices.herokuapp.com/
 - Entrar no github.com;
